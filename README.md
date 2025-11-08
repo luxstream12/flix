@@ -86,9 +86,7 @@ npx expo export:web
 
 ## 🔑 Credenciais de Admin
 
-**Login Principal:**
-- Email: guilherme.ortega830@gmail.com
-- Senha: 122318Ao@
+
 
 ## 🛠️ Tecnologias
 
